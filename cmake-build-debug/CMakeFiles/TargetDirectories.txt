@@ -1,0 +1,3 @@
+/Users/ekaterina/CLionProjects/MMPweek1/SecondAssignment/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/ekaterina/CLionProjects/MMPweek1/SecondAssignment/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ekaterina/CLionProjects/MMPweek1/SecondAssignment/cmake-build-debug/CMakeFiles/SecondAssignment.dir
